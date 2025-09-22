@@ -23,7 +23,9 @@ Here are some of my interests:
 * Food adventures
 
 #### Skills
-* Basic understanding of HTML coding.
+* Posesses a basic understanding of HTML coding.
+* Experience with using Windows, Mac OS, MS Office 365, and Adobe Cloud.
+* An understanding of how computer hardware works.
 
 ##### Goals
 * To get a better understanding of how coding and technology works as a whole.
