@@ -1,8 +1,10 @@
-# SOFT SKILLS IN WEB DEVELOPMENT, Week 4 assignment. 
+# SOFT SKILLS IN WEB DEVELOPMENT
 
 
 
-## PART 1: GitHub Profile Setup
+
+
+## PART 1: GitHub Profile Setup (Week 4 assignment)
 
 ![alt text](https://yt3.googleusercontent.com/ytc/AIdro_l-UeyCVYLHuh8-jcD4ok1-GhIcOXDUAJ0znM-ytmG5Wg=s160-c-k-c0x00ffffff-no-rj)
 
